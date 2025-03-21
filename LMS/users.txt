@@ -1,0 +1,6 @@
+S101|John Doe|Student|0|
+S102|Alice Smith|Student|0|
+F202|Dr. Robert Brown|Faculty|0|
+F203|Prof. Emily White|Faculty|0|
+L300|Sarah Johnson|Librarian|0|
+S202|Bhavya|Student|0|

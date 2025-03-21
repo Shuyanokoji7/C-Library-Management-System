@@ -1,0 +1,6 @@
+The Great Gatsby|F. Scott Fitzgerald|Scribner|1925|97807|0|INVALID|INVALID
+1984|George Orwell|Secker & Warburg|1949|97806|0|INVALID|INVALID
+The Catcher in the Rye|J.D. Salinger|Little, Brown and Company|1951|97803|0|INVALID|INVALID
+War and Peace|Leo Tolstoy|The Russian Messenger|1869|97801|0|INVALID|INVALID
+Crime and Punishment|Fyodor Dostoevsky|The Russian Messenger|1866|97804|0|INVALID|INVALID
+Brave New World|Aldous Huxley|Chatto & Windus|1932|97800|0|INVALID|INVALID
